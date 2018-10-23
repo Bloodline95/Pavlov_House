@@ -1,0 +1,9 @@
+Zum ersten Mal laden: git clone https://github.com/Bloodline95/Pavlov_House.git
+
+Zum hochladen:
+git add *
+git commit -m "........."
+git push
+
+zum aktualisieren:
+git pull
