@@ -3713,8 +3713,8 @@
 			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/House.umap",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "cb550d47483b78411e464d9d4d42c99d",
-			"FullPackageHash": "31cee9fd3150d228eb800223861af3ae",
+			"DependentPackageHash": "95c07c24e92eeb5273fd0b67842246d1",
+			"FullPackageHash": "3325183be14a5d741b07c325d501049b",
 			"DependencyData": [
 				"*** SHADERSOURCE ***",
 				"/Script/CoreUObject",
@@ -3735,8 +3735,8 @@
 			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/House_BuiltData.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "34540f29a6de8a816fec370097a14b5d",
-			"FullPackageHash": "70557444b4c56b310ef15d0c50bc95ec",
+			"DependentPackageHash": "374f2beb574f5574f06688b25545085c",
+			"FullPackageHash": "dad8f4df1e9833097173841a5939c249",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
@@ -3780,355 +3780,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/Cement_floor",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/Cement_floor",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_car_side_destructive",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_car_side_destructive",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/Cement_floor.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_car_side_destructive.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "f5a1568afa0f6e8829bf24aa66ab1ae0",
-			"FullPackageHash": "82a5fe6d8442dfd3a9e10c5d871e9339",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/Cement_phys_mat",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/Cement_phys_mat",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/Cement_phys_mat.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "525accd11287acef88f04f9171fb11db",
-			"FullPackageHash": "16f3075671e98a6c5c14656a9bc22ad8",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/Concrete_bare",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/Concrete_bare",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/Concrete_bare.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "854f397ee861a3c5f980fade9d12473b",
-			"FullPackageHash": "745a630f7b0406053d798d171a722ed2",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/Concrete_garage_Mat",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/Concrete_garage_Mat",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/Concrete_garage_Mat.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "e6fbb662dc45ee859515dd316a687cab",
-			"FullPackageHash": "42ec48c35f1e22f40bac41a139697884",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/fassade_aussen",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/fassade_aussen",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/fassade_aussen.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "3f05f83a276e07b319eedd488f0f3780",
-			"FullPackageHash": "b03abd46e148c3fdaf31d6f394d899b0",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/Fassade_stein",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/Fassade_stein",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/Fassade_stein.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "209a6214cf55d7877e9e34404c9a0a37",
-			"FullPackageHash": "f5032af2fc0975a8885000b1e326ac9f",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/garage_komplett",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/garage_komplett",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/garage_komplett.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "29758b33986454365f4a9a4a904cceac",
-			"FullPackageHash": "c206a271cea08651caa737a4501a45a7",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/garagentor",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/garagentor",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/garagentor.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "2cfdaa01c5bd4aa8f500e08ec450ec8f",
-			"FullPackageHash": "58b5657b9136882f42de456d131c9738",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/Holz",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/Holz",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/Holz.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "f3bece4053696e1b1bd905f2b3f26180",
-			"FullPackageHash": "62f4665ddc476ac0ecd8be30fc7ed7e7",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/marble_stairs_cellar",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/marble_stairs_cellar",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/marble_stairs_cellar.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "44cce4c3cf312d2d17fb5fa642df6219",
-			"FullPackageHash": "1c83f9759b8032b5b5e024a59428fcc3",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/stair",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/stair",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/stair.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "1ed59eefd82085cfa830e019e23373dc",
-			"FullPackageHash": "75040644bb18b604cf30f0a7dcc98542",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/storage_waende",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/storage_waende",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/storage_waende.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "21d3f722c38aefcb763f9962a121b209",
-			"FullPackageHash": "d3824ef7e7ccbaf5d85b361d9ad052e7",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/training_waende",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/training_waende",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/training_waende.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "d32482fb1e6f5a517b3cd6f3f2ec410c",
-			"FullPackageHash": "c7a61cf525458a216f492fb694dcc4d7",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/treppenhaus_gemauert_Mat",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/treppenhaus_gemauert_Mat",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/treppenhaus_gemauert_Mat.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "d097d8dca876198e5d447f1dce9b1b04",
-			"FullPackageHash": "9416c36aae10d23c9387312f15c3706b",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/tuehrrahmen_innen",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/tuehrrahmen_innen",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/tuehrrahmen_innen.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "59b2f2a52d0d05d3548402e556501f11",
-			"FullPackageHash": "69e3f4e7c0d8308e9516c3519cb2cf66",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/Türrahmen",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/Türrahmen",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/Türrahmen.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "41897a3be8f5a9df7f2571b1471dbe5a",
-			"FullPackageHash": "287fddba0d2afc5440f3c714416e0765",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/waesche_floor",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/waesche_floor",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/waesche_floor.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "88d81b944863025b09b03f416635be91",
-			"FullPackageHash": "dede7e7c5acf68686b647f5cf4fe6be7",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Materials/waesche_waende",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Materials/waesche_waende",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Materials/waesche_waende.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "504c09be36932f4339da7e09a3aaeb95",
-			"FullPackageHash": "cff8921ea20ad1fd6d75a5c8cdb4242f",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/car_destr",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/car_destr",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/car_destr.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "b841a1a6993b6eaf83b090c14114c4a8",
-			"FullPackageHash": "d7d75ab82fc14c273fa40263c7684dfd",
+			"DependentPackageHash": "40ec83441fe909fcbddf1eba6e50e4b3",
+			"FullPackageHash": "dc8d13b4c06988c377ba9f3fc2fbe81e",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -4138,15 +3798,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/car_training",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/car_training",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_car_side_destructive_back",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_car_side_destructive_back",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/car_training.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_car_side_destructive_back.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "acd0ee4ad989e54903af7ee84f7d64a2",
-			"FullPackageHash": "c8e2a2dd9c7cad19a88bcb31772e187e",
+			"DependentPackageHash": "db16d052885590940ddffbf2a9232e60",
+			"FullPackageHash": "7817d62968947d7240920b3aa9bdfb3b",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -4156,15 +3816,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/keller",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/keller",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_002",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_002",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/keller.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_002.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "1f077aa7aa05e182afbfbdf899164c40",
-			"FullPackageHash": "5f6c280a0bb7f2a8cf624f62c29680b7",
+			"DependentPackageHash": "adcc5e3d61c9f4e705750153ac30bec3",
+			"FullPackageHash": "ca0989ae6c3de5b9c0dd81377471a695",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -4174,15 +3834,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/laundry_garage",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/laundry_garage",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_003",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_003",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/laundry_garage.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_003.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "371d10cb973410542a289609316c9384",
-			"FullPackageHash": "b24c9658974df5f37e00a4deeeba64d2",
+			"DependentPackageHash": "5e1955ed4d6368630d202c4da684613d",
+			"FullPackageHash": "37f7c5b201b25618a45de32fa63c9a48",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -4192,15 +3852,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/laundry_training",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/laundry_training",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_004",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_004",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/laundry_training.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_004.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "bf113c5a3c5f38aaacb7875109cae5f0",
-			"FullPackageHash": "e9c0063cf354f5b0ea7ef6d97b678d80",
+			"DependentPackageHash": "83b17b639e5779ac2ba62f2eaa889971",
+			"FullPackageHash": "f450f5f673ae3354ad48da4570ffa185",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -4210,15 +3870,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/ship_destr",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/ship_destr",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_005",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_005",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/ship_destr.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_005.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "24dbe08dc7a10b63f49d549bdc40ee61",
-			"FullPackageHash": "e63a15a00d41bbba55c3392b537a27c7",
+			"DependentPackageHash": "baf5c8c60366efbecf798fd454ec61fc",
+			"FullPackageHash": "115df1690234094a14868e5e8fefe461",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -4228,15 +3888,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/stair_01",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/stair_01",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_006",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_006",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/stair_01.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_006.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "984f86f1de536f992b57df8653bd9031",
-			"FullPackageHash": "235379820ae63752dd2fe516c49f977b",
+			"DependentPackageHash": "ef5fbb343216c6b036e650e00958fb05",
+			"FullPackageHash": "e64a13dec339c9438a223c493699db89",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -4246,15 +3906,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/stairs_destr",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/stairs_destr",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_007",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_007",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/stairs_destr.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_007.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "2622d1549df821b478123bd47e48d1b4",
-			"FullPackageHash": "9de04635574ee14542458c99b7d61da2",
+			"DependentPackageHash": "2ea827160b0980976af7df73b1bd925c",
+			"FullPackageHash": "f527df96348f7c2bb3f241832959a2f2",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -4264,15 +3924,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/storage_destr_left",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/storage_destr_left",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_008",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_008",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/storage_destr_left.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_008.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "0fbc5144f4ee6d7c022d0084d5344aa2",
-			"FullPackageHash": "0d0d7873cc6595a20517f7d7045f4c4b",
+			"DependentPackageHash": "976ef7efd60d4f1fcb40f12cd6f26ebe",
+			"FullPackageHash": "b59c837c0492e2597b1db544ee3d610a",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -4282,15 +3942,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/storage_destr_right",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/storage_destr_right",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_009",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_009",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/storage_destr_right.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_009.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "2be23fc6c6a6ce49c49d6534b7b9f81a",
-			"FullPackageHash": "9aed3dd5528e93c801002c91dfc68b26",
+			"DependentPackageHash": "159a0c4971408d1e58aab2bb10cca6cc",
+			"FullPackageHash": "bfeaeca324de07931786c74fa2f4b8b6",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -4300,15 +3960,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/wand",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/wand",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_010",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_010",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/wand.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_010.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "6045638871f58db8c747f7ea7c7af0f6",
-			"FullPackageHash": "9519aeaa04acc34e5e7febd501ca56bc",
+			"DependentPackageHash": "18b0503db5ba4f928c3bfad9ee62b936",
+			"FullPackageHash": "ffac3f3c991a8278a1078e469aa67c52",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -4318,358 +3978,1063 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/beton",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/beton",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_011",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_011",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/beton.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_011.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "8832c482c846ded7d215a316c9c83b95",
-			"FullPackageHash": "c5d391ce9ea0e8811fb8cb84c25cc079",
+			"DependentPackageHash": "ab1d7a4eddf2ca99237f02b84c0c18c9",
+			"FullPackageHash": "53429ad4ffdcef3089d682108c695fb1",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/cement",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/cement",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_012",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_012",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/cement.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_012.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "21eef7f698b6191aa348fec3d7090a90",
-			"FullPackageHash": "0f22d1f6c7c8800afb9839d2366f1d0e",
+			"DependentPackageHash": "ec1b44986a11697236950733ba35f836",
+			"FullPackageHash": "f7a446074326e35b8e62a98ef15626f6",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/Concrete_garage",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/Concrete_garage",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_013",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_013",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/Concrete_garage.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_013.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "aaa99192e46bc5a8865a717af65621a0",
-			"FullPackageHash": "f8e6da0a2a479cf178ce8a4af4c0608a",
+			"DependentPackageHash": "e8d78b1787fbf0c010c57d63ffb4ba69",
+			"FullPackageHash": "7ebc2642400ef4d5c7a39331e4362b7c",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/garage_texture",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/garage_texture",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_014",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_014",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/garage_texture.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_014.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "42cf0ee8803d2063ca8c2589fcf807ad",
-			"FullPackageHash": "45eaf95ce3e5e4001b7bef293c5d8a32",
+			"DependentPackageHash": "47c01d4b6778f348cd84f13b6e6d6d10",
+			"FullPackageHash": "5754d5c4b23e163e89db5e7b49ea310c",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/cement_floor_normal",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/cement_floor_normal",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_015",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_015",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/Normal_maps/cement_floor_normal.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_015.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "2f8a1b46550b8222ec9772aea1254f24",
-			"FullPackageHash": "331e67d11c07d590244a2a203791eb96",
+			"DependentPackageHash": "b0e7e74039fdc9c1cafb7d9731b02ab4",
+			"FullPackageHash": "68ec7821117465bc23285cfd88e8d354",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/Concrete_garage_normal",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/Concrete_garage_normal",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_016",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_016",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/Normal_maps/Concrete_garage_normal.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_016.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "b53a99ca3b88fed967dd5fbfae377562",
-			"FullPackageHash": "214abe22c03a186b1435c13c3942f747",
+			"DependentPackageHash": "5b590fde51aae5a76e150090afab2c7e",
+			"FullPackageHash": "0cfc00f63eaf8fe31b16eaa8e785ad83",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/garage_texture_normal",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/garage_texture_normal",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_017",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_017",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/Normal_maps/garage_texture_normal.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_017.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "ceeef346b645af59dbe60a67adbc8091",
-			"FullPackageHash": "25dbb2aab458c69fe52ccd605752f83b",
+			"DependentPackageHash": "236c1af942d8871aea2215b834e41db1",
+			"FullPackageHash": "bf05ece702fa8723165f4b21b664a010",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_BrickGroutless0040_1_seamless_S_normal",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_BrickGroutless0040_1_seamless_S_normal",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_018",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_018",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_BrickGroutless0040_1_seamless_S_normal.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_018.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "810bb8829fd7264219be982718e00089",
-			"FullPackageHash": "6063ecd1355f5efae887196f13b36617",
+			"DependentPackageHash": "15909b231167662d53f2b36a9f64bf71",
+			"FullPackageHash": "023579079622670f3b8201c048add5f7",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_ConcreteBare0398_7_seamless_S_normal",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_ConcreteBare0398_7_seamless_S_normal",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_019",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_019",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_ConcreteBare0398_7_seamless_S_normal.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_019.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "a88fe9c55434bf6d04a9a058b0d6f772",
-			"FullPackageHash": "86bd7395e9617acde1397a8d7b5c78c3",
+			"DependentPackageHash": "87a27dab47b95699f2dd87b447b19606",
+			"FullPackageHash": "e991980eb914fdb62e06d499598d58dd",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_FloorsMarble0026_1_seamless_S_normal",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_FloorsMarble0026_1_seamless_S_normal",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_020",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_020",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_FloorsMarble0026_1_seamless_S_normal.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_020.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "130d011a45c9bdc179510d10baa95762",
-			"FullPackageHash": "b976a7f01da0c393850ec22dc98947c5",
+			"DependentPackageHash": "1caccf6b9c64ae6c3d8dd9744694ec1c",
+			"FullPackageHash": "d4f8adf97f1c7921a3588140f6439724",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_FloorsRegular0193_1_seamless_S_normal",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_FloorsRegular0193_1_seamless_S_normal",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_021",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_021",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_FloorsRegular0193_1_seamless_S_normal.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_021.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "f6954e71b8079502dc9914ff88e89399",
-			"FullPackageHash": "1bc0623e51ce86707ba3b7348d127760",
+			"DependentPackageHash": "9eea3c8def43feef509d21af58a143fe",
+			"FullPackageHash": "36627aa8313f4fb4681963352ecb483b",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_WoodPlanksBare0343_1_seamless_S_normal",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_WoodPlanksBare0343_1_seamless_S_normal",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_022",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_022",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/Normal_maps/TexturesCom_WoodPlanksBare0343_1_seamless_S_normal.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_022.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "349d1b8194cd6bbcbf0a4f9ae31f3ada",
-			"FullPackageHash": "873dc3bd1edd101a3ea3da746a8f7c5f",
+			"DependentPackageHash": "0bb7213ecbf073985327dc21d54d1a61",
+			"FullPackageHash": "56bd61199a6046cacae08c5c77eeac4d",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/treppenhaus_gemauert_normal",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/Normal_maps/treppenhaus_gemauert_normal",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_023",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_023",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/Normal_maps/treppenhaus_gemauert_normal.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_023.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "b248b22a35ff5e62b14829b29da0833e",
-			"FullPackageHash": "cc9eb4c9820efc51c7c09a29f4edadd9",
+			"DependentPackageHash": "182cbffa62a2fc1823f1b8f543250942",
+			"FullPackageHash": "acd7c759696544be8c7d0ad8b0b14b54",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_BrickGroutless0040_1_seamless_S",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_BrickGroutless0040_1_seamless_S",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_024",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_024",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/TexturesCom_BrickGroutless0040_1_seamless_S.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_024.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "645079cd284a830cbf3c19513f3e7291",
-			"FullPackageHash": "6549fba27e4bff66da7eb2d642b4f5a1",
+			"DependentPackageHash": "1e82de2f121b56a295eced4110bee86e",
+			"FullPackageHash": "ba42d05eb2cf88c005e285a018cf0f43",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_ConcreteBare0398_7_seamless_S",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_ConcreteBare0398_7_seamless_S",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_025",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_025",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/TexturesCom_ConcreteBare0398_7_seamless_S.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_025.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "24494b50cd20a3354ba385e6012510d9",
-			"FullPackageHash": "c346067d91814a1031de7c30cfbcffd7",
+			"DependentPackageHash": "0175cea323c2c7de8f1c981a2ef2cbbe",
+			"FullPackageHash": "a445d6cb2d240e2b1fcdd373a38a08a1",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_FloorsMarble0026_1_seamless_S",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_FloorsMarble0026_1_seamless_S",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_026",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Cube_026",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/TexturesCom_FloorsMarble0026_1_seamless_S.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Cube_026.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "6f63c2587a42412e00ddd1becf1ed3a9",
-			"FullPackageHash": "703b6a1ea82e197f726c61c396db8d3f",
+			"DependentPackageHash": "0dac9d55d3ce86e42e3f04a4ad900983",
+			"FullPackageHash": "95761e7fb57b88115f5757a0b5bc1049",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_FloorsRegular0193_1_seamless_S",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_FloorsRegular0193_1_seamless_S",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_erdgeschoss_boden",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_erdgeschoss_boden",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/TexturesCom_FloorsRegular0193_1_seamless_S.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_erdgeschoss_boden.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "c22b42eb5b5d2edce3eff77ee08185a6",
-			"FullPackageHash": "42885571a4a88032fd629fe2a7d3584a",
+			"DependentPackageHash": "586b2f3d045dfb315f928c60f96258ca",
+			"FullPackageHash": "3d2e5e362377df0f99f973f8a360c2a7",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_MarbleBase0038_1_seamless_S",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_MarbleBase0038_1_seamless_S",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_esszimmer_links",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_esszimmer_links",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/TexturesCom_MarbleBase0038_1_seamless_S.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_esszimmer_links.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "546a79a946672a743457da2728cdf530",
-			"FullPackageHash": "9d6332cc6e8f0660aa3361086acbad29",
+			"DependentPackageHash": "efe302947490f7e31e4fffda3a1c8435",
+			"FullPackageHash": "040012bca988168595c2292caa84ddfd",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_PlasterWhite0083_1_seamless_S",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_PlasterWhite0083_1_seamless_S",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_esszimmer_rechts",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_esszimmer_rechts",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/TexturesCom_PlasterWhite0083_1_seamless_S.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_esszimmer_rechts.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "b86f7c11e8904cc8391c4a57fb3e0863",
-			"FullPackageHash": "abbb6ce989158d800e7d81e1c3253ee1",
+			"DependentPackageHash": "2da4bc922999277448d97d61970b771a",
+			"FullPackageHash": "72870bee659a621f66939340341bbc66",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_WoodPlanksBare0343_1_seamless_S",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/TexturesCom_WoodPlanksBare0343_1_seamless_S",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Keller_boden",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Keller_boden",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/TexturesCom_WoodPlanksBare0343_1_seamless_S.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Keller_boden.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "35d6a242148fc61581678f83d658ace0",
-			"FullPackageHash": "ceccd536ed7ee5a6466526d45013278f",
+			"DependentPackageHash": "682f0f5763500ff1f03a00ed28f7751a",
+			"FullPackageHash": "82c00497d84742f2e709c611c8965d1a",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Textures/treppenhaus_gemauert",
-			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Textures/treppenhaus_gemauert",
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_kueche_eingang",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_kueche_eingang",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Textures/treppenhaus_gemauert.uasset",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_kueche_eingang.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "e4f16f020a517fa1f01738d4821a1673",
-			"FullPackageHash": "9212da921cd5710922a1bee5a959eb5c",
+			"DependentPackageHash": "966aabc336a52ca1e8089714bfe614da",
+			"FullPackageHash": "80f715b04691d17c599482b732f27fb2",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_kueche_oben",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_kueche_oben",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_kueche_oben.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "478ebc21511c2139b2f8ee32c2ea9174",
+			"FullPackageHash": "465b9b319a3df37b678d039d4d09cb02",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_kueche_unten",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_kueche_unten",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_kueche_unten.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "0f825f69285eb6c7217319c4d1ec2316",
+			"FullPackageHash": "d2bff5c14b96680ebca9ca52105ba6b3",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_laundry_double_destructive",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_laundry_double_destructive",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_laundry_double_destructive.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "bde5b17f49dec5ae9dd77d621bb25c64",
+			"FullPackageHash": "9a7e8f9a76340d8eea3ab599f454d3f8",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_laundry_single_destructive",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_laundry_single_destructive",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_laundry_single_destructive.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "a2f1ccfc8324590472a71cc45ec1384c",
+			"FullPackageHash": "12043c7af8cb543be2317572b18ae85b",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_lobby",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_lobby",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_lobby.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "00b5f859a4512c17493ed503175ed9de",
+			"FullPackageHash": "1093ce4b7802f14dbd3389bdac80223f",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_lobby_kueche",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_lobby_kueche",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_lobby_kueche.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "df970121ca479848668181f32c749fc7",
+			"FullPackageHash": "9bf435f6e99840c10dbd6ceb26880d61",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_obergeschoss_boden",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_obergeschoss_boden",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_obergeschoss_boden.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "3ec5c0169aed4945de07dd4d2a27ecd8",
+			"FullPackageHash": "6b6fa2b4554c4e0aeb99ef12326c1fb9",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_ship_side_destructive",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_ship_side_destructive",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_ship_side_destructive.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "77a7acb59d6229c120371623ff2a8bcf",
+			"FullPackageHash": "d9af75ea4fc0df933d661d2beacf1c80",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_stairs_destructive",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_stairs_destructive",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_stairs_destructive.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "a0d08f9d8c53037d7c337893e0adbd79",
+			"FullPackageHash": "145633d70470ff4e083ef62ce592cbbe",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_storage_destructive_left",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_storage_destructive_left",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_storage_destructive_left.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "fd526b0278608763955886b8fb48ffbb",
+			"FullPackageHash": "08b0051f38273e92caa4d8c6a1fbe572",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_storage_destructive_right",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_storage_destructive_right",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_storage_destructive_right.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "5aede7a9167ec0f0a4fca7821cd72adf",
+			"FullPackageHash": "74f016aab95b1872e61883a3e989f772",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Treppe_keller",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Treppe_keller",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Treppe_keller.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "ce2176ba584c88e5721664daeb391fca",
+			"FullPackageHash": "3af9476c1a7e5ea4536d2e8a8d0a4f1f",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Treppe_keller_001",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_Treppe_keller_001",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_Treppe_keller_001.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "327e24edb3ae2d163a5d86e7d24535b6",
+			"FullPackageHash": "5960005c0541d5b0c0fd0c8008dd368b",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "053fac3e225e4a16cccda076abb404df",
+			"FullPackageHash": "b674e0b2ab0c8233ce829117da611e5a",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_001",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_001",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_001.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "3a3b11fffdd9b523732116e5d91bbe8f",
+			"FullPackageHash": "979887ece62364afdb6239d1ad59137d",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_002",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_002",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_002.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "12d6cf8932cf4061bc44dff141f87c99",
+			"FullPackageHash": "a4c20206da6e26dbb6c5a48850806774",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_003",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_003",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_003.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "daba07e1ac4e88539f05b018d6682ce8",
+			"FullPackageHash": "2690685580a294fecd1f6a423683264c",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_004",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_004",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_004.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "54165234cea2db8236e60c9e1582d537",
+			"FullPackageHash": "a39c35e4eadb4f61ec71e9b35453ff6e",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "686c27b71a4895334114852620514940",
+			"FullPackageHash": "70d760a35876cd5d25f3bb4ccb661d58",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_001",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_001",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_001.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "506543e43a2ca4f5e086949bbc913fbc",
+			"FullPackageHash": "84c59d81323404eff506f7d33e006c9c",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_002",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_002",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_002.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "fc1442a78370a467bef173c631b72297",
+			"FullPackageHash": "3822a707ed7744a4214f286f7ecd64d3",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_003",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_003",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_003.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "55e75867588a02e19eddf19d5054f4cd",
+			"FullPackageHash": "7aa763156b3c22d7d9b41887f9970a60",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_004",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_004",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_004.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "7c36640b4d0d7f222835be12538e014b",
+			"FullPackageHash": "c6e64ac2356e09b76070f123e7f935be",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_005",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_005",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_005.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "0b11a9b36346fd85b87e4726b1b913bb",
+			"FullPackageHash": "8abf0e9b82acda737fb2e3b6ea80459c",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_006",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_006",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_006.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "0a58b093790ffd5e44ef6fb88921470e",
+			"FullPackageHash": "e2c68ceef587229ede3b4feced38663e",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_007",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_007",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_007.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "0b75125b63e780bed408c7f3aa879b01",
+			"FullPackageHash": "63001130de650aaf863371e33c53e91a",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_008",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_008",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_008.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "cd873302ec5b561d056c165887278c25",
+			"FullPackageHash": "0ce6b1d05d18011a8395336dd275bb36",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_009",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_009",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_009.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "6247226cf37724d64b79bb8b675d7e60",
+			"FullPackageHash": "8a155153ebc5d1a654a3ed2d0ebe5890",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_010",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_010",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_010.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "9cad395223a9a4083bd6992286ce95a8",
+			"FullPackageHash": "b9fca8ab619dd19aef0ba8b200b44965",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_011",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_011",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_011.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "1c91f0358166e850501c53f4f3255ef8",
+			"FullPackageHash": "315c93f06cc2b9bd69525d5dd8d6d5f5",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_012",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_012",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_012.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "5a049345ba84dd309648ab2085659268",
+			"FullPackageHash": "c8e8112a2fae72eb09fef94979962143",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_013",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_013",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_013.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "7b3e153aadd5537c99e30e52a7ce0e94",
+			"FullPackageHash": "98897fee991b4117e411a23298b8c4ee",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_014",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_014",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_014.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "167e134e2f295e840882de288d59d588",
+			"FullPackageHash": "ef963452186db3b1708356b6dff95a79",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_015",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_015",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_015.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "dd1b227e9f470a6140281479dafb5063",
+			"FullPackageHash": "340dde5a3737fb4e0bd6098cf74a7229",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_016",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_016",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_016.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "f5b7dff1c28b108c366c67e88af1e06b",
+			"FullPackageHash": "319e7fb1a81279e097a93de1e22a31de",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_017",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_017",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_017.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "9e9594bbaeb65f554d2026848aacd2fd",
+			"FullPackageHash": "6d4540e2c8d742cfdcd52e24a36ea1be",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_018",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_018",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_waende_erdgeschoss_018.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "06c0c3a462629cc8d2aba3f07532c882",
+			"FullPackageHash": "ff3a02dbb4a4e090c34f56d79c81c86d",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_wohnzimmer",
+			"CookedPackageName": "/Game/CustomMaps/UGC1523200099/Meshes/Haus_wohnzimmer",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/bened/Documents/Unreal Projects/RB6/Content/CustomMaps/UGC1523200099/Meshes/Haus_wohnzimmer.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "6fa0c8a5d8d7cf756a197274e39ce177",
+			"FullPackageHash": "b72b40d3abf8cd071fef8d497068b368",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
